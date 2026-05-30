@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/repo-name/static/js/main.a9ff3d08.js",
-    "index.html": "/repo-name/index.html",
-    "main.a9ff3d08.js.map": "/repo-name/static/js/main.a9ff3d08.js.map"
+    "main.js": "/CharacterG/static/js/main.a9ff3d08.js",
+    "index.html": "/CharacterG/index.html",
+    "main.a9ff3d08.js.map": "/CharacterG/static/js/main.a9ff3d08.js.map"
   },
   "entrypoints": [
     "static/js/main.a9ff3d08.js"
